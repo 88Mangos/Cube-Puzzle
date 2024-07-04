@@ -9,6 +9,7 @@ If you don't have Blender, download it: [Blender.org](https://www.blender.org/do
 Download [CubePuzzleSetup.blend](https://github.com/88Mangos/Cube-Puzzle/blob/main/CubePuzzleSetup.blend)  
 
 Open CubePuzzleSetup.blend and try to move/rotate the pieces to fit into the constraints!
+[Blender Guide](https://docs.blender.org/manual/en/latest/modeling/meshes/editing/mesh/transform/basic.html)
 
 ## Solution Video
 [Watch on YouTube](https://youtu.be/-vAOlQ-iXd4)
