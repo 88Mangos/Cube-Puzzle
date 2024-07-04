@@ -1,9 +1,10 @@
 # Cube Puzzle
 ## Puzzle taken from DMP (CMU 15-051). ##
-[Professor Sutner's DMP Website](https://www.cs.cmu.edu/~sutner/dmp.html)  
 ![alt text](https://github.com/88Mangos/Cube-Puzzle/blob/main/CubePuzzleSetup.png)  
 
 ## Try it yourself ##
+Problem statement on [Professor Sutner's DMP Website](https://www.cs.cmu.edu/~sutner/dmp.html)  
+
 If you don't have Blender, download it: [Blender.org](https://www.blender.org/download/)  
 
 Download [CubePuzzleSetup.blend](https://github.com/88Mangos/Cube-Puzzle/blob/main/CubePuzzleSetup.blend)  
