@@ -11,4 +11,4 @@ Download [CubePuzzleSetup.blend](https://github.com/88Mangos/Cube-Puzzle/blob/ma
 Open CubePuzzleSetup.blend and try to move/rotate the pieces to fit into the constraints!
 
 ## Solution Video
-[![Watch the video](https://img.youtube.com/vi/-vAOlQ-iXd4/maxresdefault.jpg)](https://youtu.be/-vAOlQ-iXd4)
+[Watch on YouTube](https://youtu.be/-vAOlQ-iXd4)
